@@ -32,5 +32,5 @@ Feel free to contribute with improvements in this plugin.
 
 ## License
 
-This project is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPLv3 License - see the [LICENSE.md](https://github.com/adaumhenrique/tablepress-add-link-to-column/LICENSE.md) file for details
 
